@@ -1,4 +1,4 @@
-
+exclusive Plugin for Obsidian for macOS - markdown support and custom shortcuts is the best Obsidian for macOS plugin, featuring markdown support and custom shortcuts. Safe,
 
 
 
